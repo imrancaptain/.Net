@@ -1,0 +1,10 @@
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\bin\Debug\UseCalculator.exe.config
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\bin\Debug\UseCalculator.exe
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\bin\Debug\UseCalculator.pdb
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.csproj.AssemblyReference.cache
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.Form1.resources
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.Properties.Resources.resources
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.csproj.GenerateResource.cache
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.exe
+C:\Users\nsc\source\repos\UseCalculator\UseCalculator\obj\Debug\UseCalculator.pdb
