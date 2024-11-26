@@ -1,0 +1,17 @@
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\bin\Debug\[Final123_Student_Cost_Management_Project].exe.config
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\bin\Debug\[Final123_Student_Cost_Management_Project].exe
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\bin\Debug\[Final123_Student_Cost_Management_Project].pdb
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\[Final123_Student_Cost_Management_Project].csproj.AssemblyReference.cache
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Accounts_Details.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Calculator.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Cost_Details.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Food_Cost_Details.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Form1.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Others_Cost_Details.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Properties.Resources.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.Transportation_Cost_Details.resources
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\[Final123_Student_Cost_Management_Project].csproj.GenerateResource.cache
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\[Final123_Student_Cost_Management_Project].csproj.CoreCompileInputs.cache
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\[Final123_Student_Cost_Management_Project].exe
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\[Final123_Student_Cost_Management_Project].pdb
+C:\Users\nsc\source\repos\[Final123_Student_Cost_Management_Project]\[Final123_Student_Cost_Management_Project]\obj\Debug\_Final123_Student_Cost_Management_Project_.NDIN.resources
